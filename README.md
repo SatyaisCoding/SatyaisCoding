@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Insight-Xplorer**
 
-- 🌱 I’m currently learning **ReactJS, NextJs, NodeJS, ExpressJS, MongoDB, TypeScript**
+- 🌱 I’m currently Mastering **ReactJS, NextJs, NodeJS, ExpressJS, MongoDB, TypeScript**
 
 - 📫 How to reach me **satya.sk.prakash@gmail.com**
 
